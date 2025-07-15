@@ -21,10 +21,12 @@
 - 📹 OpenCV – xử lý hình ảnh/video
 ---
 ### 🔍 Phát hiện biển số và xe:
-![Detection Demo](./runs/detect/exp/Bike.png)
+![Detection Demo](./YOLOv5/DA1-main/runs/detect/exp/Bike.png)
+
 
 ### 🔠 2. Biển số đã được cắt (crop) để OCR:
-![Cropped Plate](./runs/detect/exp/crops/bienso/Bike.jpg)
+![Cropped Plate](./YOLOv5/DA1-main/runs/detect/exp/crops/bienso/Bike.jpg)
+
 
 ## ⚙️ Cài đặt & chạy
 
