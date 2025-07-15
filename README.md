@@ -20,12 +20,11 @@
 - 🔠 EasyOCR / Pytesseract – để nhận diện ký tự biển số
 - 📹 OpenCV – xử lý hình ảnh/video
 ---
-📦 Output mẫu
-🚘 Khung xe và biển số được vẽ rõ ràng bằng bounding box
+### 🔍 Phát hiện biển số và xe:
+![Detection demo](./Bike.png)
 
-🔠 Text biển số được in ra console hoặc lưu vào file
-
-📂 Kết quả ảnh lưu trong runs/detect/exp/
+### 🔠 Kết quả nhận dạng biển số (OCR):
+![OCR result](./OCR_reg.png)
 
 ## ⚙️ Cài đặt & chạy
 
